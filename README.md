@@ -305,14 +305,3 @@ Pull requests welcome! Please follow:
 3. Write tests for new functionality
 4. Submit PR with detailed description
 
-## License
-
-MIT License - see LICENSE file
-
-## Contact
-
-For questions or feedback, open an issue on GitHub.
-
----
-
-**Built for Interview Showcase** | Data Engineering | Real-Time Analytics | GCP | Spark | Airflow
